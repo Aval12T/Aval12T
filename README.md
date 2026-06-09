@@ -5,9 +5,9 @@
   
 - 🥇 CompTIA Security+ Certified
   
-- 🔐 Cyber Professional Transitioning into Threat Intelligence
+- 🔐 Cyber Professional Pursuing Threat Intelligence & Behavioral Security
   
-- 🧠 Research Interest:
+- 🧠 Research Interests:
 - Behavioral Security
 - Human Factors in Cyber Security
 - Digital Trust
@@ -15,7 +15,7 @@
 - Threat Intelligence
 
 - 📚Currently Working on:
-- Threat Intelligence Analyis
+- Threat Intelligence Analysis
 - SIEM & Security Monitoring
 - Cybersecurity Labs and Projects
 - Doctoral Research
